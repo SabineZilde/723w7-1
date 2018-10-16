@@ -2,5 +2,5 @@
 
 Homework Task:
 * have a rest
-* publish a link to Webinar (Week 6)
-  (Please, keep the workflow of viza, test2 project)
+[![Pale Blue Dot](http://peacefulanarchism.com/wp-content/uploads/2014/11/Pale-Blue-Dot-2-450x380.jpg)](https://youtu.be/9hOvzXg8BJQ)
+
