@@ -1,9 +1,11 @@
 # 723 week 7 class 1
 
 ### Homework Task:
-* To have a good rest!
+* To have a good rest! - done
 * To publish a link to Webinar video source (Week 6)
 *   (Please, keep in mind: Page-> Image->Link->VideoSource)
+
+[![Pale Blue Dot](http://peacefulanarchism.com/wp-content/uploads/2014/11/Pale-Blue-Dot-2-450x380.jpg)](https://youtu.be/9hOvzXg8BJQ)
   
 * To present the code, used in the webinar, 
   ```python
