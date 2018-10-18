@@ -25,7 +25,7 @@
 
 * Reflect on the webinar of recent week applying the short convoying text.
 
-My basic recommendation for learning how line breaks work is to experiment and discover -- hit 'Enter' once (i.e., insert one newline), 
+My basic recommendation for learning how line breaks work is to experiment and discover -- hit `Enter` once (i.e., insert one newline), 
 then hit it twice (i.e., insert two newlines), 
   
   see what happens. 
